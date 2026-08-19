@@ -2,7 +2,12 @@
 
 
 # 💫 About Me:
-🔭 Currently working on: Samvaad – a sign language interpreter website.<br>🤝 Looking to collaborate on: Projects that blend creativity and technology.<br>🙋‍♀️ Need help with: Real-time gesture recognition.<br>🌱 Learning: Data Structures & Algorithms, Web Development & Cybersecurity.<br>💬 Ask me about: React, GitHub, or hackathons.<br>⚡ Fun fact: Music keeps me focused while coding! 🎧
+🔭 Currently working on: Hoppy – A gamified 2D platformer web game.<br>
+🤝 Looking to collaborate on: Full-stack, AI & creative tech projects.<br>
+🌱 Currently learning: Java, Spring Boot, DSA & Backend Development.<br>
+💻 Building with: Java, React, Node.js, MongoDB & SQL.<br>
+💬 Ask me about: Web development, Java, GitHub & DSA.<br>
+⚡ Fun fact: Music keeps me focused while coding! 🎧
 
 
 ## 🌐 Socials:
